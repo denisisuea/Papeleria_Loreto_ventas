@@ -32,3 +32,6 @@ feature/registro-venta
 
 - [Portilla Denisis]
 - [Ramirez Jorge]
+## Estado del proyecto
+
+Actualmente se encuentra en desarrollo el módulo de registro de ventas.
